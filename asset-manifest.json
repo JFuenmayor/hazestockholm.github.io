@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1b8ac635.chunk.css",
+    "main.js": "/static/js/main.0cb02c4e.chunk.js",
+    "main.js.map": "/static/js/main.0cb02c4e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f385538a.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f385538a.js.map",
+    "static/js/2.df184928.chunk.js": "/static/js/2.df184928.chunk.js",
+    "static/js/2.df184928.chunk.js.map": "/static/js/2.df184928.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.2efb64d9dcd762ce38af56dfa664aa6a.js": "/precache-manifest.2efb64d9dcd762ce38af56dfa664aa6a.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.1b8ac635.chunk.css.map": "/static/css/main.1b8ac635.chunk.css.map",
+    "static/js/2.df184928.chunk.js.LICENSE.txt": "/static/js/2.df184928.chunk.js.LICENSE.txt",
+    "static/media/adagio-for-strings.mp3": "/static/media/adagio-for-strings.03905498.mp3",
+    "static/media/fog1.png": "/static/media/fog1.8572f2aa.png",
+    "static/media/fog2.png": "/static/media/fog2.98e53ce7.png",
+    "static/media/she_bad.png": "/static/media/she_bad.66dafb8b.png",
+    "static/media/she_good.png": "/static/media/she_good.834ed812.png",
+    "static/media/smoke.mp4": "/static/media/smoke.ed1872ef.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f385538a.js",
+    "static/js/2.df184928.chunk.js",
+    "static/css/main.1b8ac635.chunk.css",
+    "static/js/main.0cb02c4e.chunk.js"
+  ]
+}
